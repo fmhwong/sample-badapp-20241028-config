@@ -1,6 +1,9 @@
 version: 1.0
 app:
   # configure endpoints
+  endpoints: public
+  
+  # configure endpoints
   # endpoints: public
   
   # build id to deploy
